@@ -1,4 +1,4 @@
-# MicroTracking `Version 1.0` ```BETA```
+# Tracking `Version 1.0` ```BETA```
 A cool motion &amp; video tracker used for security and other purposes 
 
 # Dependencies
